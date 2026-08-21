@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi there I'm Timothy Mwau👋
 
-#  About Me:
+#  Web Developer | Turning ideas into powerful digital solutions
 <br>###About Me<br>I am a **Web Developer** and **Front End Engineer** who enjoys turning complex problems into reliable user-centered digital products for client satisfaction.My area of focus is leaned towards building polished digital experiences for real world impact.<br><br>###Collaboration<br><br>Looking to collaborate with health-tech institutions, platforms, hospitals, and experts.Seeking support with access to relevant hospital databases and partnerships to strengthen **MatCare** a platform whose aim is on improving Maternal Healthcare Access Through Digital Innovation.<br><br>###Interests & Skills<br><br>Ask me about mobile UI design, web design,REST APIs,Debugging,SQL & databases,Linux & command line, UX research, frontend development, and AI engineering.I'm also interested in bug fixing, product development, and project management.<br><br>###Currently Learning<br><br>Currently expanding my knowledge of health-tech and learning mandarin and german language.Currently i'm exploring how technology can create practical, accessible solutions in healthcare.<br><br>###Beyond Tech<br><br>I enjoy skating and bike riding, exploring different food cuisines, and trying new hobbies.Always curious, learning, building, and looking for the next challenge.<br><br>
 
 
