@@ -1,8 +1,14 @@
+<p align="center">
+  <a href="mailto:timmulwa123@gmail.com">
+    <img alt="Status: Open for Opportunities" src="https://img.shields.io/badge/Status-Open_for_Opportunities-4c9a2a?style=flat" />
+  </a>
+</p>
+
 <h1 align="center">Timothy Mwau</h1>
 
 <p align="center">
-  <b> Aspiring senior Full stack & Security engineer </b><br>
-  Building reliable, user-centered products with measurable real world impact.
+  <b>Building reliable, user-centered products with measurable real-world impact.</b><br>
+  
 </p>
 
 <p align="center">
@@ -16,42 +22,37 @@
 
 ## About
 
-I design , ship and build web products end to end: interface, API, database and deployment. I care about software that is fast on a real Kenyan mobile connection, accessible to the people who need it, and maintainable by the next engineer who opens the codebase.
+I design and build web products end to end: interface, API, database and deployment. I care about software that is fast on a real Kenyan mobile connection, accessible to the people who need it, and maintainable by the next engineer who opens the codebase.
 
-My work sits at the intersection of three:
+My work sits at the intersection of:
 
 - **Product engineering:** turning ambiguous problems into shipped, tested features.
-- **Data and APIs:** clean schemas, well-designed REST interfaces, and queries that scale.
-- **Security awareness:** threat modelling, input validation, least-privilege access, and an ongoing focus on blue teaming and application security.
-
-## Featured Projects
-
+- **APIs:** well-designed REST interfaces, and queries that scale.
+- **Security awareness:** threat modelling, input validation, least-privilege access, and an ongoing focus on security implementation.
 
 ## Currently
 
-- **Building:** MatCare, a maternal healthcare access platform.
-- **Learning:** Security engineering and full stack engineering.
-- **Open to:** freelance engagements, contract work and part-time roles in the fintech,health tech and software related industries.
+- **Building:** Matcare
+- **Learning:** security engineering and full stack engineering.
+- **Open to:** freelance engagements, contract work and part time roles in fintech and software based companies.
 
 ## How I Work
 
 - **Start from the user.** Research and prototypes come before code, so effort goes where it matters.
-- **sign for failure.** Validation at every boundary, clear error states, and logs that actually help during an incident.
-- **Ship in small steps.** Short-lived branches, automated checks on every pull request, and reversible deployments.
-- **Document decisions.** A good README and a short record of why a choice was made save more time than any framework.
+- **Design for failure.** Validation at every boundary, clear error states, and logs that actually help during an incident.
+- **Ship in small steps.** Short-lived branches, automated checks on every pull request
 
 ## Technical Skills
 
 | Area | Tools |
 |---|---|
-| Tools | PyTorch, Pycharm , Bash , Terminal , VS Code , figma ,google stitch , git , git hub, google workspace , claude ,vercel , netlify , infinityfree
-| Languages | TypeScript, JavaScript, Python, SQL, Bash, PowerShell,Bootstrap |
-| Frontend | React, Next.js, React Native, Tailwind CSS |
-| Vercel, Netlify, Google Cloud, Git, GitHub Actions, Linux |
+| Languages | TypeScript, JavaScript, Python, SQL, Bash, PowerShell |
+| Frontend | React, Next.js, React Native, Tailwind CSS, Radix UI |
+| Hosting & Deploying | Vercel, Netlify, Google Cloud, Git, GitHub Actions, Linux |
 | Testing and Quality | Playwright, Testing Library, Prettier |
 | Security | Secure coding practices, authentication and authorization, blue team fundamentals |
-| Design | Figma, Adobe XD, UX research, mobile UI design |
-| AI | PyTorch, applied machine learning |
+| Design | Figma, Adobe XD, UX research, google stitch , mobile & web UI design |
+| AI | PyTorch  |
 
 ## GitHub Activity
 
@@ -72,7 +73,7 @@ If you work in this space, send me a message with a short description of what yo
 
 ## Content
 
-I share my personal journey to becoming a full stack and security engineer who enjoys building real world projects for impact,practical build-along tutorials and project breakdowns on [YouTube](https://youtube.com/@codingprojectske) and [TikTok](https://tiktok.com/@codingprojectske). 
+I share practical build-along tutorials and project breakdowns on [YouTube](https://youtube.com/@codingprojectske) and [TikTok](https://tiktok.com/@codingprojectske). 
 
 ## Get in Touch
 
