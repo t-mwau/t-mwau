@@ -1,27 +1,86 @@
-<h1 align="center">Hi there, I'm Timothy Mwau 👋</h1>
-<h2 align="center">I Turn ideas into premium digital solutions for impact</h2>
+<h1 align="center">Timothy Mwau</h1>
 
-<br>##About Me<br>I am a **Web Developer** who enjoys turning complex problems into reliable user-centered digital products for client satisfaction.My area of focus is leaned towards building polished digital experiences for real world impact.<br><br>##Collaboration<br><br>Looking to collaborate with health-tech institutions, platforms, hospitals, and experts.Seeking support with access to relevant hospital databases and partnerships to strengthen **MatCare** a platform whose aim is on improving Maternal Healthcare Access Through Digital Innovation.<br><br>##Interests & Skills<br><br>Ask me about **mobile UI design, web design,REST APIs,Debugging,SQL & databases,Linux & command line, UX research, frontend development, and AI engineering**.I'm also interested in **blue teaming and application security engineering**.
+<p align="center">
+  <b> Aspiring senior Full stack & Security engineer </b><br>
+  Building reliable, user-centered products with measurable real world impact.
+</p>
 
-##  Socials:
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@codingprojectske) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/TimMwau) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@projectsKE) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:timmulwa123@gmail.com) 
-
-# Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black) ![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=for-the-badge&logo=Prezi&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-
-#  GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=t-mwau&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=t-mwau&theme=shadow_green&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=t-mwau&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-###  Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <a href="https://x.com/TimMwau">X</a> &nbsp;|&nbsp;
+  <a href="https://youtube.com/@codingprojectske">YouTube</a> &nbsp;|&nbsp;
+  <a href="https://tiktok.com/@codingprojectske">TikTok</a> &nbsp;|&nbsp;
+  <a href="mailto:timmulwa123@gmail.com">Email</a>
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=t-mwau&icon=1&color=3)](https://visitcount.itsvg.in)
 
-##  You can help me by Donating
-![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/timothymwau)[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/mulwa.mwau0@gmail.com) 
+## About
 
-  
+I design , ship and build web products end to end: interface, API, database and deployment. I care about software that is fast on a real Kenyan mobile connection, accessible to the people who need it, and maintainable by the next engineer who opens the codebase.
 
+My work sits at the intersection of three:
+
+- **Product engineering:** turning ambiguous problems into shipped, tested features.
+- **Data and APIs:** clean schemas, well-designed REST interfaces, and queries that scale.
+- **Security awareness:** threat modelling, input validation, least-privilege access, and an ongoing focus on blue teaming and application security.
+
+## Featured Projects
+
+
+## Currently
+
+- **Building:** MatCare, a maternal healthcare access platform.
+- **Learning:** Security engineering and full stack engineering.
+- **Open to:** freelance engagements, contract work and part-time roles in the fintech,health tech and software related industries.
+
+## How I Work
+
+- **Start from the user.** Research and prototypes come before code, so effort goes where it matters.
+- **sign for failure.** Validation at every boundary, clear error states, and logs that actually help during an incident.
+- **Ship in small steps.** Short-lived branches, automated checks on every pull request, and reversible deployments.
+- **Document decisions.** A good README and a short record of why a choice was made save more time than any framework.
+
+## Technical Skills
+
+| Area | Tools |
+|---|---|
+| Tools | PyTorch, Pycharm , Bash , Terminal , VS Code , figma ,google stitch , git , git hub, google workspace , claude ,vercel , netlify , infinityfree
+| Languages | TypeScript, JavaScript, Python, SQL, Bash, PowerShell,Bootstrap |
+| Frontend | React, Next.js, React Native, Tailwind CSS |
+| Vercel, Netlify, Google Cloud, Git, GitHub Actions, Linux |
+| Testing and Quality | Playwright, Testing Library, Prettier |
+| Security | Secure coding practices, authentication and authorization, blue team fundamentals |
+| Design | Figma, Adobe XD, UX research, mobile UI design |
+| AI | PyTorch, applied machine learning |
+
+## GitHub Activity
+
+<p align="center">
+  <img height="170" alt="GitHub stats" src="https://github-readme-stats.shion.dev/api?username=t-mwau&theme=shadow_green&hide_border=true&count_private=false" />
+  <img height="170" alt="Top languages" src="https://github-readme-stats.shion.dev/api/top-langs/?username=t-mwau&theme=shadow_green&hide_border=true&layout=compact" />
+</p>
+
+## Collaboration
+
+I am looking to partner with health-tech organizations, hospitals and clinical experts to strengthen MatCare. Areas where I would value support:
+
+- Clinical guidance on maternal care workflows.
+- Partnerships for access to hospital data, handled in line with the Kenya Data Protection Act, 2019 and with patient privacy as a non-negotiable requirement.
+- Pilot facilities willing to give structured feedback.
+
+If you work in this space, send me a message with a short description of what you have in mind.
+
+## Content
+
+I share my personal journey to becoming a full stack and security engineer who enjoys building real world projects for impact,practical build-along tutorials and project breakdowns on [YouTube](https://youtube.com/@codingprojectske) and [TikTok](https://tiktok.com/@codingprojectske). 
+
+## Get in Touch
+
+- Email: [timmulwa123@gmail.com](mailto:timmulwa123@gmail.com)
+- X: [@TimMwau](https://x.com/TimMwau)
+- YouTube: [@codingprojectske](https://youtube.com/@codingprojectske)
+- TikTok: [@codingprojectske](https://tiktok.com/@codingprojectske)
+
+## Support
+
+If my open-source work or tutorials have helped you, you can support them here: [Buy Me a Coffee](https://buymeacoffee.com/timothymwau).
