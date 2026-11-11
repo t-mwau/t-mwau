@@ -1,6 +1,5 @@
-div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0d9488,100:22c55e&height=200&section=header&text=Timothy%20Mwau&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Engineer%20%C2%B7%20Security-Minded%20%C2%B7%20Product%20Builder&descSize=17&descAlignY=60" alt="Timothy Mwau banner" />
-### Building reliable, user-centered products with measurable real-world impact.
+### Building reliable, user centered products with measurable  results and for real world impact.
  
 <p>
   <a href="https://x.com/TimMwau"><img src="https://img.shields.io/badge/X-@TimMwau-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
@@ -26,7 +25,7 @@ My work sits at the intersection of:
  
 | | |
 |---|---|
-|  **Building** | [MatCare](#-featured-projects), a maternal care platform |
+|  **Building** | **MatCare** a maternal care platform |
 |  **Learning** | Security engineering and full-stack engineering |
 |  **Open to** | Freelance engagements, contract work and part-time roles in fintech and software companies |
  
@@ -42,12 +41,11 @@ My work sits at the intersection of:
  
 | Project | Description | Tech Stack |
 |:--|:--|:--|
-| **MatCare** | A maternal care platform built around clinical workflows, with patient privacy handled in line with the Kenya Data Protection Act, 2019. | TypeScript, React, Security-first design |
-|  **[Konza Green Tree Nursery](https://github.com/t-mwau/nursery)** | A tree nursery bed institute project built in association with **DecodeLabs**. It presents the nursery's services, tree seedlings and growing programmes to the people who need them. | HTML, CSS, JavaScript |
-| **Business Showcase Landing Page** | A fast, responsive landing page that helps a small business present its offering clearly and convert visitors into enquiries. | HTML, CSS, JavaScript, Responsive design |
-| **[FSUMA](https://github.com/t-mwau/fsuma)** | An interactive web-based learning application designed to empower elementary students with dyslexia and reading challenges. | HTML, CSS, JavaScript |
-| **[MavunoGuard](https://github.com/t-mwau/mavunoguard)** | A web project focused on protecting and improving harvest outcomes. | HTML |
-| **[Fashion Store](https://github.com/t-mwau/fashionstore)** | A full e-commerce website with product catalogue and ordering flow. | Python |
+|  **[Konza Green Tree Nursery](https://github.com/t-mwau/nursery)** | A tree nursery bed institute project built in association with **DecodeLabs**. It presents the nursery's services, tree seedlings and growing programmes to the people who need them. 
+| **Business Showcase Landing Page** | A fast, responsive landing page that helps a small business present its offering clearly and convert visitors into enquiries. 
+| **[FSUMA](https://github.com/t-mwau/fsuma)** | An interactive web-based learning application designed to empower elementary students with dyslexia and reading challenges. 
+| **[MavunoGuard](https://github.com/t-mwau/mavunoguard)** | A web project focused on protecting and improving harvest outcomes. 
+| **[UrbanWear](https://github.com/t-mwau/fashionstore)** | A full e-commerce Fashion Store website with product catalogue and ordering flow. 
  
 ---
  
@@ -80,7 +78,6 @@ My work sits at the intersection of:
 I am looking to partner with health-tech organizations, hospitals and clinical experts to strengthen **MatCare**. Areas where I would value support:
  
 -  Clinical guidance on maternal care workflows.
--  Partnerships for access to hospital data, handled in line with the **Kenya Data Protection Act, 2019**, with patient privacy as a non-negotiable requirement.
 -  Pilot facilities willing to give structured feedback.
 If you work in this space, send me a message with a short description of what you have in mind.
  
@@ -91,7 +88,6 @@ If you work in this space, send me a message with a short description of what yo
 | 📧 **Email** | [timmulwa123@gmail.com](mailto:timmulwa123@gmail.com) |
 | 💼 **LinkedIn** | [timothymwau](https://www.linkedin.com/in/timothymwau/) |
 | 🐦 **X** | [@TimMwau](https://x.com/TimMwau) |
-| ▶️ **YouTube** | [@codingprojectske](https://youtube.com/@codingprojectske) |
 | 🎵 **TikTok** | [@codingprojectske](https://tiktok.com/@codingprojectske) |
  
 ## ☕ Support
