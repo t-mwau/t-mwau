@@ -14,7 +14,7 @@
  
 ## 👋 About
  
-I design and build web products end to end: **interface, API, database and deployment**. I care about software that is fast on a real Kenyan mobile connection, accessible to the people who need it, and maintainable by the next engineer who opens the codebase.
+I'm **Mwau** a focused result oriented **techie** who designs and build web products end to end: **interface, API, database and deployment**. I care about software that is fast on a real Kenyan mobile connection, accessible to the people who need it, and maintainable by the next engineer who opens the codebase.
  
 My work sits at the intersection of:
  
