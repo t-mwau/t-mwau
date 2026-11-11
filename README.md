@@ -1,5 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0d9488,100:22c55e&height=200&section=header&text=Timothy%20Mwau&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Engineer%20%C2%B7%20Security-Minded%20%C2%B7%20Product%20Builder&descSize=17&descAlignY=60" alt="Timothy Mwau banner" />
-### Building reliable, user centered products with measurable  results and for real world impact.
+
  
 <p>
   <a href="https://x.com/TimMwau"><img src="https://img.shields.io/badge/X-@TimMwau-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
